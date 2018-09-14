@@ -1,1 +1,2 @@
-Mars is the red planet. It has nothing to do with MArs Bars.
+Mars is the red planet. 
+It has nothing to do with Mars Bars.
